@@ -1,0 +1,1 @@
+Sandbox para comparar desenvolvimento de aplica‡äes com GUI em Cpp e CSharp
